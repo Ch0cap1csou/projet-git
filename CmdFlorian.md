@@ -26,3 +26,13 @@
 - git add css/style.css
 - git commit -m "Style du css"
 - git push origin florian
+
+- nano style.css (Modification pour une V2)
+- git add css/style.css
+- git commit -m "style css V2"
+- git push origin florian
+
+- nano CmdFlorian.md
+- git add CmdFlorian.md
+- git commit -m "Notes Florian"
+- git push origin florian
