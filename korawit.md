@@ -44,4 +44,9 @@
 - git add css index.html korawit.md
 - git commit
 - git push origin main 
+- touch LICENCE.md
+- nano LICENCE.md
+- git add LICENCE.md
+- git commit -m "licence"
+- git push origin main
 
