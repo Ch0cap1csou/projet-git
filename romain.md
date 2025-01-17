@@ -25,3 +25,21 @@
 - git add index.html
 - git commit -m "html v2"
 - git push origin romain
+- nano index.html
+- git add index.html
+- git commit -m "html v3"
+- git push origin romain
+
+## Correction des erreurs et ajout version finale 
+
+- git pull origin romain 
+- git config pull.rebase false
+- ls
+- rm index.html.save 
+- git pull origin romain 
+- ls
+- git add index.html
+- git commit -m "html v4"
+- git rm index.html.save 
+- git commit -m "html v4"
+- git push origin romain
