@@ -15,6 +15,13 @@ header{
 	text-align: center;
 }
 
+class.img{
+	max-width: 100%;
+	height: auto;
+	border: 2px solid;
+	border-radius: 8px;
+}
+
 main{
 	padding: 2px;
 	background-color: green;
