@@ -21,4 +21,12 @@ nano Nomdugroupe.md
 git add Nomdugroupe.md
 git commit -m "nome du groupe"
 git push origine main
+git checkout florian
+git pull origin florian
+git checkout main
+git checkout florian -- css/style.css
+ls
+git add css
+git commit -m "css"
+git push origin main
 
