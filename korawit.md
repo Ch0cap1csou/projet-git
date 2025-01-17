@@ -49,4 +49,14 @@
 - git add LICENCE.md
 - git commit -m "licence"
 - git push origin main
+- git checkout romain
+- git push origin romain
+- git checkout florian
+- git origin florian 
+- git checkout main
+- git checkout florian -- css
+- git checkout romain -- index.html
+- git add css index.html
+- git commit -m " v3"
+- git push origin main
 
