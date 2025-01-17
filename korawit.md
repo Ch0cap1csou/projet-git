@@ -16,4 +16,9 @@ git remote add origin https://github.com/Ch0cap1csou/projet-git.git
 git push origin main
 touch korawit.md
 nano korawit.md
+touch Nomdugroupe.md
+nano Nomdugroupe.md
+git add Nomdugroupe.md
+git commit -m "nome du groupe"
+git push origine main
 
