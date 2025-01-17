@@ -56,7 +56,11 @@
 - git checkout main
 - git checkout florian -- css
 - git checkout romain -- index.html
-- git add css index.html
+- git add css 
 - git commit -m " v3"
 - git push origin main
-
+- nano css/style.css
+- git add css index.html
+- git commit -m "Vfinal"
+- git push origin main
+ 
